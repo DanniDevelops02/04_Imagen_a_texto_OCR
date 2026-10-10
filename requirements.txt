@@ -1,7 +1,5 @@
-streamlit
-streamlit-webrtc
-numpy
+streamlit>=1.40
 opencv-python-headless
+numpy
 pytesseract
 Pillow
-
